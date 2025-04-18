@@ -1,5 +1,5 @@
 # Hello, there! 👋🏻
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;System.out.println\("Hello+World!"\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;System.out.println\("Hello+World!"\);)](https://git.io/typing-svg)
 - [Resume 📄](#resume-)
 - [Connect with me 💬](#connect-with-me-)
 - [Who am I? 🙋](#who-am-i-)
@@ -20,7 +20,7 @@
 
 ## What I'm working on now? 🚀
 Since February 2025, I've been working as a software engineer at Zapire LLC, where I contribute to various projects and initiatives. You can also check out [Knowlio](https://knowlio.app).
-Currently, I am working on my bachelor thesis titled "Investigating Cybersecurity Attacks on Autonomous Vehicles Using BeamNG and Siemens Innexis Virtual System," in collaboration with Siemens and BeamNG.
+Currently, I am working on my bachelor thesis titled "Investigating Cybersecurity Attacks on Autonomous Vehicles Using BeamNG and Siemens Innexis Virtual System" in collaboration with Siemens and BeamNG.
 
 ## GUC Projects 👨🏻‍🎓
 
